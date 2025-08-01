@@ -16,7 +16,7 @@ The goal of this project is to develop a regression model that can accurately pr
 - Year of Manufacture  
 - Fuel Type  
 - Transmission Type  
-- Number of Owners  
+- Number of Seats  
 - Kilometers Driven  
 - Seller Type  
 - Present Price  
