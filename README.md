@@ -102,5 +102,8 @@ This project is free for educational and non-commercial use.
 
 ---
 
-## About Me
+## Acknowledgement
 
+Special thanks to Dr. Anjan Kumar Talukdar for guiding me and providing valuable insights throughout the project. His support, mentorship, and encouragement played a crucial role in shaping my understanding of real-world data science applications.
+
+ 
