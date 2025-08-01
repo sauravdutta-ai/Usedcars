@@ -74,9 +74,14 @@ The goal of this project is to develop a regression model that can accurately pr
 
 ## Project Structure
 
-bash
-├── UsedCarsPricePrediction.ipynb
-├── dataset.csv
-├── README.md
-└── requirements.txt
+```bash
+.
+├── Client/                            # Frontend files (HTML/CSS/JS)
+├── Server/                            # Backend server files (Flask or Streamlit)
+├── Car.jpg                            # Project illustration/image
+├── README.md                          # Project documentation
+├── Untitled.ipynb                     # Jupyter Notebook for model development
+├── cardekho_dataset.csv              # Raw dataset
+├── cleaned_cardekho_dataset.csv      # Preprocessed dataset
+
 
