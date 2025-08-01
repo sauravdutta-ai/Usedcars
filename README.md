@@ -64,6 +64,15 @@ The goal of this project is to develop a regression model that can accurately pr
 
 ---
 
+## How it Works
+
+- 1. User inputs car details via the web interface (Client).
+- 2. Details are sent to the backend server.
+- 3. The trained ML model predicts the car’s selling price.
+- 4. The predicted value is displayed back to the user.
+
+---
+
 ## Future Improvements
 
 - Deploy as a web application using Flask or Streamlit
@@ -75,13 +84,14 @@ The goal of this project is to develop a regression model that can accurately pr
 ## Project Structure
 
 ```bash
-.
+
 ├── Client/                            # Frontend files (HTML/CSS/JS)
-├── Server/                            # Backend server files (Flask or Streamlit)
+├── Server/                            # Backend server files (Flask)
 ├── Car.jpg                            # Project illustration/image
 ├── README.md                          # Project documentation
 ├── Untitled.ipynb                     # Jupyter Notebook for model development
 ├── cardekho_dataset.csv              # Raw dataset
 ├── cleaned_cardekho_dataset.csv      # Preprocessed dataset
 
+---
 
