@@ -1,16 +1,16 @@
-# 🚗 Used Cars Price Prediction using Machine Learning
+# Used Cars Price Prediction using Machine Learning
 
 This project aims to predict the selling price of used cars based on various features like car brand, manufacturing year, fuel type, kilometers driven, and more. Built using Python and machine learning algorithms, the model assists potential car buyers and sellers in making informed pricing decisions.
 
 ---
 
-## 📌 Overview
+## Overview
 
 The goal of this project is to develop a regression model that can accurately predict the price of a used car based on relevant attributes. A clean, preprocessed dataset is used to train multiple models, and the best-performing one is selected based on performance metrics like R² score and RMSE.
 
 ---
 
-## 📊 Features Used
+## Features Used
 
 - Car Name / Brand  
 - Year of Manufacture  
@@ -24,7 +24,7 @@ The goal of this project is to develop a regression model that can accurately pr
 
 ---
 
-## 🧠 Machine Learning Techniques
+## Machine Learning Techniques
 
 - **Data Cleaning & Preprocessing**
   - Handling missing values
@@ -46,7 +46,7 @@ The goal of this project is to develop a regression model that can accurately pr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python**
 - **Pandas**, **NumPy**
@@ -57,14 +57,14 @@ The goal of this project is to develop a regression model that can accurately pr
 
 ---
 
-## 📈 Results
+## Results
 
 - The best-performing model achieved an **R² Score of ~0.89**, showing strong predictive power for real-world use cases.
 - The model generalizes well across various car segments and price ranges.
 
 ---
 
-## 🌐 Future Improvements
+## Future Improvements
 
 - Deploy as a web application using Flask or Streamlit
 - Real-time scraping of used car data from websites like CarDekho or OLX
@@ -72,7 +72,7 @@ The goal of this project is to develop a regression model that can accurately pr
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 bash
 ├── UsedCarsPricePrediction.ipynb
