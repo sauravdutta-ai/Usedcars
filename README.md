@@ -66,10 +66,10 @@ The goal of this project is to develop a regression model that can accurately pr
 
 ## How it Works
 
-- 1. User inputs car details via the web interface (Client).
-- 2. Details are sent to the backend server.
-- 3. The trained ML model predicts the car’s selling price.
-- 4. The predicted value is displayed back to the user.
+- User inputs car details via the web interface (Client).
+- Details are sent to the backend server.
+- The trained ML model predicts the car’s selling price.
+- The predicted value is displayed back to the user.
 
 ---
 
@@ -93,3 +93,14 @@ The goal of this project is to develop a regression model that can accurately pr
 | `Untitled.ipynb`       | Jupyter Notebook for model development  |
 | `cardekho_dataset.csv`     | Raw dataset  |
 | `cleaned_cardekho_dataset.csv`    | Preprocessed dataset  |
+
+---
+
+## License
+
+This project is free for educational and non-commercial use.
+
+---
+
+## About Me
+
