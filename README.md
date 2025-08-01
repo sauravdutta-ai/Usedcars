@@ -86,8 +86,10 @@ The goal of this project is to develop a regression model that can accurately pr
 
 | Folders & Files        | Purpose                          |
 |-------------|----------------------------------|
-| `Python`    | Core scripting language          |
-| `Playwright`| Browser automation & scraping    |
-| `Gemini API`| Large Language Model (AI writer) |
-| `ChromaDB`  | Versioned vector storage (future ready) |
-| `Git`       | Version control & collaboration  |
+| `Client/`    | Frontend files (HTML/CSS/JS)          |
+| `Server/`| Backend server files (Flask)    |
+| `Car.jpg`| Project illustration/image |
+| `README.md`  | Project documentation |
+| `Untitled.ipynb`       | Jupyter Notebook for model development  |
+| `cardekho_dataset.csv`     | Raw dataset  |
+| `cleaned_cardekho_dataset.csv`    | Preprocessed dataset  |
